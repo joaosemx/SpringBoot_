@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../../../Documents/João Victor"
+		},
+		{
+			"path": "../../../../../../../../../../../Downloads/demo/demo"
+		},
+		{
+			"path": "../../../../../../../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

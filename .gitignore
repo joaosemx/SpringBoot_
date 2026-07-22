@@ -1,0 +1,6 @@
+/target/
+*.class
+oracleJdk*/
+.settings/
+.classpath
+.project
